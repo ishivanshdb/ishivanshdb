@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... JavaScript, Programming, Frontend Development, Cloud Computing
 - 🌱 I’m currently learning ... React.JS and Microsoft Azure 
 - 💞️ I’m looking to collaborate on ... Web Application
-- 📫 How to reach me ... shivanshdb10@gmail.com or https://wa.me/+91-8303557710
+- 📫 How to reach me ... shivanshdb10@gmail.com or https://wa.me/+918303557710
 
 <!---
 ishivanshdb/ishivanshdb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
